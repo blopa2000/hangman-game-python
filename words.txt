@@ -1,0 +1,5 @@
+palindromo
+python
+programacion
+juego
+pruebas
